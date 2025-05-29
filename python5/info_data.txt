@@ -1,0 +1,43 @@
+data yang dimiliki
+    nama
+    vote average
+    vote count
+    type
+    html weekday
+    htm weekend
+    maps
+    lokasi
+    description
+    gambar
+    outdoorindoor
+    usia
+    kategori
+    jenis kelamin
+
+pertanyaan
+    lokasi
+    type
+    outdoorindoor
+
+kategorisasi
+    lokasi : 
+        kota yogyakarta1
+        magelang1
+        sleman1
+        bantul1
+        kulon progo1
+        gunung kidul
+        klaten
+
+    type:
+        sejarah
+        kebun binatang
+        pantai
+        wisata
+        alam
+        wisata air
+        buatan
+        agrowisata
+    outdoorindoor:
+        indoor
+        outdoor
